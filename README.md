@@ -3,3 +3,4 @@ Advanced Python Password Generator Tool
 
 v0.5 out now.
 Future updates coming soon.
+Bugs may apply.
